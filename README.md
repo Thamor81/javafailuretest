@@ -1,0 +1,2 @@
+# javafailuretest
+Ryhmä.fail.exe
